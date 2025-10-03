@@ -1,83 +1,79 @@
-# Hi there, I'm Augusto Amaral 👋
+# Hey there, I'm Augusto Amaral 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/auamaral/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://curriculum.augustoamaral.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/auamaral/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@augustoamaral.com)
 
-## 🚀 Senior Software Engineer | Full-Stack Expert
+## About me
 
-I'm a passionate software engineer with **6+ years of experience** building scalable enterprise solutions for international markets. Currently seeking new opportunities to contribute to innovative projects with global remote teams.
+I'm a Software Engineer with 6 years of experience, currently working with Three60 Energy/Maiella building complex dashboards for the oil & gas industry. Check out the [FACTS Dashboard](https://apps.energyops.io/facts/) - one of those projects that actually turned out better than the initial mockups (yes, it happens sometimes).
 
-### 🏆 Recent Highlights
+**🎯 Currently open to new opportunities** - Looking for challenging roles where I can contribute to meaningful projects with talented teams.
 
-- 🎯 **90%+ Code Coverage Champion** - Led implementation of automated visual testing frameworks at Three60 Energy/Maiella
-- 🔧 **Monorepo Architecture Expert** - Pioneered adoption of Bun runtime, Moon build system, and end-to-end type safety
-- 🏗️ **Enterprise Scale** - Delivered critical features for Procore's 20-year-old construction management platform
-- 🥇 **Hacking.Rio 2019 Winner** - Transformed hackathon victory into venture-backed startup (Avaliei!)
+## What I've been up to
 
-### 💻 Tech Stack
+### 🛢️ At Three60 Energy/Maiella
+Achieved something that usually only exists in developer dreams: **90%+ code coverage** that actually makes sense. Built an automated visual testing framework with Storybook and Playwright that compares screenshots pixel by pixel.
 
-#### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+Together with our architect, we designed the entire frontend using **Vite** and **Bun runtime**. If you're curious about the performance gains and cost savings, I wrote about it [in this article](https://zoolatech.com/blog/unlocking-ci-cost-efficiency-with-bun-in-large-scale-projects/).
 
-#### Modern Tools & Technologies
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=react-query&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### 🏗️ At Procore (via Zoolatech)
+Navigating a 20-year-old codebase taught me patience is indeed a virtue. Worked on their flagship construction management platform, delivering critical features for budget management while modernizing legacy Rails and React code. The kind of experience where you learn that `// TODO: fix this later` comments from 2008 are still there for a reason.
 
-#### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+### 🚀 My startup journey (Avaliei!)
+Won Hacking.Rio 2019 (out of 700+ participants) and turned it into a venture-backed startup with Vibra Energia S.A. as our partner. Built everything from scratch - the tech stack, the team, the late-night debugging sessions. It didn't work out in the end, but the experience? Priceless.
 
-### 🛠️ What I've Built
+## Tech Stack
 
-#### 🎨 **Automated Visual Testing Framework**
-Custom Storybook + Playwright solution achieving pixel-perfect UI consistency
-- Automated screenshot capture and comparison
-- Multi-viewport and theme support
-- CI/CD integration with baseline management
+**Daily drivers:**
+- TypeScript
+- React
+- Ruby on Rails
+- Python
+- Node.js
 
-#### 🔒 **End-to-End Type Safety System**
-Elysia + Eden Treaty architecture, eliminating API contract bugs
-- Zero duplicate type maintenance
-- Automatic type propagation from backend to frontend
-- Full type safety from database to UI
+**Current favorites:**
+- Bun
+- Storybook
+- TanStack Router
+- Moon
+- Elysia + Eden Treaty
 
-#### 📊 **Enterprise Data Visualization**
-Complex dashboards with advanced filtering for the oil & gas industry
-- Real-time data processing
-- Interactive charts with ECharts
-- Custom filter builder with AND/OR logic
+**Infrastructure & DevOps:**
+- Docker
+- GitHub Actions & Azure DevOps
+- AWS
 
-### 🌍 Languages
+## Things I've built
 
-- 🇧🇷 **Portuguese** - Native
-- 🇺🇸 **English** - Fluent
-- 🇪🇸 **Spanish** - Advanced
+### [FACTS Dashboard](https://apps.energyops.io/facts/)
+Interactive data visualization dashboard for the energy industry. The real challenge here was creating complex AND/OR filters that users could actually understand without a manual. Built with React, TypeScript, and ECharts.
 
-### 🎯 Current Focus
+### [Blog: Cutting CI Costs with Bun](https://zoolatech.com/blog/unlocking-ci-cost-efficiency-with-bun-in-large-scale-projects/)
+Wrote about how teams can significantly reduce CI costs and build times using Bun.
 
-- 🔍 Exploring cutting-edge web technologies (Bun, TanStack Start, Moon)
-- 📚 Deepening expertise in monorepo architectures and build optimization
-- 🤝 Open to senior engineering roles with international remote teams
+### Automated Visual Testing Framework
+Custom Storybook + Playwright solution that captures and compares screenshots across multiple viewports and themes.
 
-### 📫 Let's Connect!
+### End-to-End Type Safety System
+Implemented Elysia + Eden Treaty architecture eliminating those fun runtime surprises when the backend changes the API without telling anyone. Full type safety from database to UI
 
-I'm always interested in discussing new opportunities, innovative projects, or just geeking out about technology. Feel free to reach out!
+## Languages
 
-- 📧 Email: [contact@augustoamaral.com](mailto:contact@augustoamaral.com)
-- 💼 LinkedIn: [linkedin.com/in/auamaral](https://www.linkedin.com/in/auamaral/)
-- 📄 Resume: [curriculum.augustoamaral.com](https://curriculum.augustoamaral.com)
+- 🇧🇷 Portuguese - Native
+- 🇺🇸 English - Fluent
+- 🇪🇸 Spanish - Advanced
+
+## Let's connect
+
+I'm always interested in discussing new opportunities, interesting technical challenges, or just chatting about why we keep adding more JavaScript frameworks to the ecosystem.
+
+If you have an exciting project or just want to talk tech, feel free to reach out:
+
+- 📧 [contact@augustoamaral.com](mailto:contact@augustoamaral.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/auamaral/)
+- 📄 [Full Resume](https://curriculum.augustoamaral.com)
 
 ---
 
-<p align="center">
-  <i>⚡ "Building the future, one commit at a time" ⚡</i>
-</p>
+*Mounting custom solutions and crafting perfect tables (the digital kind).*
